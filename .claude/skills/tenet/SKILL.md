@@ -18,6 +18,6 @@ The command:
 
 ## Output
 
-Downloads a file like: `claude-conversation-saver-plugin-yzh6pb_2026-09-02_14-45-10.jsonl`
+Downloads a file like: `conversation_2026-09-02_14-45-10.jsonl`
 
-The filename uses your current Git branch name for easy identification.
+The file is automatically ready in your download folder.

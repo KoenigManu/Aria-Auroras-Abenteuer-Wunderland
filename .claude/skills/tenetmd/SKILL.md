@@ -20,7 +20,7 @@ The command:
 ## Output
 
 Downloads two files:
-- `claude-conversation-saver-plugin-yzh6pb_2026-09-02_14-45-10.jsonl` (raw data)
-- `claude-conversation-saver-plugin-yzh6pb_2026-09-02_14-45-10.md` (human-readable)
+- `conversation_2026-09-02_14-45-10.jsonl` (raw data)
+- `conversation_2026-09-02_14-45-10.md` (human-readable)
 
-Both filenames use your current Git branch name for easy identification. The Markdown version personalizes the conversation with character names instead of generic "User/Assistant".
+Both files are automatically ready in your download folder. The Markdown version personalizes the conversation with "Manu Vayvasvata" and "Aria Aurora" instead of generic labels.
