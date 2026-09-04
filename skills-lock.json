@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "validate-consistency": {
+      "source": "jeremylongshore/claude-code-plugins-plus-skills",
+      "sourceType": "github",
+      "skillPath": "skills/.curated/validate-consistency/SKILL.md",
+      "computedHash": "c9c032416568bc35f2cdcd02b4f03ddf622d4ac73f4e37a3d5f639aabd4c094f"
+    }
+  }
+}
