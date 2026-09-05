@@ -1,0 +1,6 @@
+{
+  "name": "tts-setup",
+  "version": "1.0.0",
+  "description": "Setup und Test von KittenTTS (lokale, offline Text-zu-Sprache-Engine) fuer Aria Auroras Abenteuer Wunderland.",
+  "author": "Manu Vayvasvata"
+}
